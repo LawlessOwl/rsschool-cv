@@ -71,3 +71,23 @@ const getMatrixProduct = (a, b) => {
 ```
 
 ---
+
+## Work expirience
+
+### [Agency Landing page](https://github.com/LawlessOwl/agency.github.io)
+***This project is a web-site for photographers team, this landing I make with HTML and SCSS, all animation I make on SCSS and for elements position I use Flexbox.***
+[Deployment](https://lawlessowl.github.io/agency.github.io/)
+
+---
+
+## Education
+
+### ***Grodno State College of Technique, Technologies and Design (2014-2017)***
+- Electromechanic
+- Computer's operator
+
+---
+
+## English Language
+
+### ***English skill - B1***
