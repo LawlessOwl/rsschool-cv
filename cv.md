@@ -7,11 +7,11 @@
 > github: https://github.com/LawlessOwl
 
 >### *About me*
-> Я веб разработчик специализирующийся на JavaScript и верстке на HTML и Scss, имею 1,5 года опыта разработки в этой сфере, в данный момент я перехожу на разработку под React.\
-Занимаюсь как разработкой нового функционала на JS, так и рефакторингом старого кода, решаю алгоритмические задачи для тренировки метода мышления.\
-Хорошо адаптируюсь к любой стрессовой ситуации и всегда могу найти наилучший способ решения проблемы в любом проекте.\
-В данный момент активно ищу основную работу по направлению разработки веб приложений.\
-Совсем недавно с успехом окончил новый курс "Разработка веб приложений на JavaScript"
+>I'm a web developer specializing in JavaScript and HTML and Scss layout. I have 1.5 years of development experience in this field. I'm currently transitioning to React development.\
+I'm involved in both developing new functionality in JS and refactoring old code, solving algorithmic problems to train my thinking skills.\
+I adapt well to any stressful situation and can always find the best way to solve problems in any project.\
+I'm currently actively looking for a full-time job in web application development.\
+I recently successfully completed a new course on “Web Application Development with JavaScript."
 
 >### *Skills*
 >JavaScript / JSON\
@@ -34,7 +34,6 @@
 >>return average
 >>}
 >>```
-
 >> my solution for Stop gninnipS My sdroW! from codewars : https://www.codewars.com/kata/5264d2b162488dc400000001
 >>```javascript
 >>function spinWords(string){
